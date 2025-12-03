@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Lose Control",
+  "base_artist": "Teddy Swims",
+  "createdAt": "2025-12-03T08:28:13.218744Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lose Control",
+      "artist": "MEDUZA feat. Becky Hill & Goodboys",
+      "has_synced": true,
+      "path": "select/01_Lose_Control_MEDUZA_feat._Becky_Hill_&_Goodboys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lose Control (feat. Ciara & Fat Man Scoop) - Hani In Control Mix",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/02_Lose_Control_(feat._Ciara_&_Fat_Man_Scoop)_-_Hani_In_Control_Mix_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Music Makes You Lose Control",
+      "artist": "Les Rythmes Digitales",
+      "has_synced": true,
+      "path": "select/03_Music_Makes_You_Lose_Control_Les_Rythmes_Digitales.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Music Makes You Lose Control (Lrd Remix)",
+      "artist": "Les Rythmes Digitales",
+      "has_synced": false,
+      "path": "select/04_Music_Makes_You_Lose_Control_(Lrd_Remix)_Les_Rythmes_Digitales.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lose Control (feat. Ciara & Fat Man Scoop)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/05_Lose_Control_(feat._Ciara_&_Fat_Man_Scoop)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lose Control (feat. Ciara & Fatman Scoop)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/06_Lose_Control_(feat._Ciara_&_Fatman_Scoop)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lose Control",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/07_Lose_Control_ASH.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lose Control",
+      "artist": "Missy Elliott feat. Ciara & Fatman Scoop",
+      "has_synced": false,
+      "path": "select/08_Lose_Control_Missy_Elliott_feat._Ciara_&_Fatman_Scoop.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lose Control (Fred Falke mix)",
+      "artist": "Kish Mauve",
+      "has_synced": false,
+      "path": "select/09_Lose_Control_(Fred_Falke_mix)_Kish_Mauve.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lose Control",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/10_Lose_Control_Evanescence.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lose Control",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/11_Lose_Control_Evanescence.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lose Control",
+      "artist": "María Mena",
+      "has_synced": false,
+      "path": "select/12_Lose_Control_María_Mena.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lose Control - US Album Version",
+      "artist": "María Mena",
+      "has_synced": true,
+      "path": "select/13_Lose_Control_-_US_Album_Version_María_Mena.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lose Control (feat. Ciara & Fat Man Scoop)",
+      "artist": "Missy Elliott feat. Ciara & Fatman Scoop",
+      "has_synced": true,
+      "path": "select/14_Lose_Control_(feat._Ciara_&_Fat_Man_Scoop)_Missy_Elliott_feat._Ciara_&_Fatman_Scoop.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lose Control",
+      "artist": "Teddy Swims",
+      "has_synced": false,
+      "path": "select/pl_01_Lose_Control_Teddy_Swims.txt"
+    }
+  ]
+}
